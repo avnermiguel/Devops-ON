@@ -57,8 +57,8 @@ public class DemoApplication {
 		return "https://www.autoglassonline.com.br/";
 	}
 	
-	@GetMapping("/9CLDR")
+	@GetMapping("/7DVPR")
 	String cldr(){
-		return "Turma 9 MBA Cloud";
+		return "Turma 7 MBA DevOps - Avner";
 	}
 }	
